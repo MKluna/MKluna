@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on INCLUIT **PACK-GO**
 
-- 🌱 I’m currently learning **ASP.NET Core 3.1 and Goland**
-
 - 📫 How to reach me **matiaslunastyles@gmail.com**
 
 - 📄 Know about my experiences <p><a href="https://www.linkedin.com/in/matias-luna-9254b71a2/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAAC9qf20BLFQZLvPoN-PhXLpf86KFqxiLm6Y,1603896281100)/">Take a look at my CV</a></p>
